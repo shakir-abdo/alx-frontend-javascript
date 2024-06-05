@@ -10,7 +10,7 @@ export const react = new Subjects.React();
 export const cTeacher: Subjects.Teacher = {
   firstName: "shakir",
   lastName: "Abdo",
-  experienceTeachingC: 5,
+  experienceTeachingC: 10,
 };
 
 console.log("C++");
